@@ -1,0 +1,101 @@
+employee_id,department,region,performance_score,years_experience,satisfaction_rating
+EMP001,Sales,Asia Pacific,80.56,20,3.8
+EMP002,Support,North America,77.32,0,4.6
+EMP003,Finance,North America,83.15,14,4.8
+EMP004,Operations,South America,83.92,3,3.7
+EMP005,Operations,Asia Pacific,82.92,2,3.8
+EMP006,Operations,Europe,95.9,12,3.1
+EMP007,HR,North America,76.36,13,3.8
+EMP008,Operations,Europe,74.23,12,3.7
+EMP009,Sales,Middle East,80.03,8,4.6
+EMP010,Marketing,Asia Pacific,80.6,23,4.0
+EMP011,Sales,South America,59.41,20,4.9
+EMP012,Support,Asia Pacific,70.28,5,4.8
+EMP013,Operations,Africa,87.78,18,4.2
+EMP014,Operations,North America,67.42,10,3.6
+EMP015,Operations,Asia Pacific,81.4,19,3.1
+EMP016,Sales,Europe,78.54,20,3.9
+EMP017,Marketing,Asia Pacific,84.96,0,2.7
+EMP018,Operations,Middle East,84.1,20,4.4
+EMP019,Finance,Asia Pacific,88.57,3,3.8
+EMP020,Support,North America,80.05,20,3.6
+EMP021,Sales,Europe,76.31,6,4.4
+EMP022,Operations,Asia Pacific,90.29,14,3.4
+EMP023,IT,South America,82.17,23,4.7
+EMP024,Operations,Asia Pacific,86.09,4,3.6
+EMP025,Marketing,Europe,90.8,0,4.6
+EMP026,Operations,Europe,84.07,11,3.5
+EMP027,Operations,North America,80.06,9,3.5
+EMP028,Operations,North America,80.08,4,3.2
+EMP029,Finance,Europe,94.62,15,4.8
+EMP030,HR,Asia Pacific,69.55,25,4.9
+EMP031,Support,Europe,80.54,19,3.8
+EMP032,Sales,North America,89.0,9,3.1
+EMP033,Operations,South America,64.72,8,2.6
+EMP034,Operations,Asia Pacific,87.84,16,4.1
+EMP035,Operations,North America,50.24,10,4.6
+EMP036,Marketing,Middle East,98.92,20,2.9
+EMP037,Support,Asia Pacific,71.08,18,3.9
+EMP038,Sales,North America,95.4,17,4.6
+EMP039,Operations,Europe,58.64,16,4.0
+EMP040,Operations,Asia Pacific,78.5,14,3.6
+EMP041,Finance,Asia Pacific,60.07,11,3.2
+EMP042,Operations,Europe,86.16,11,4.4
+EMP043,Operations,Asia Pacific,91.09,14,3.8
+EMP044,Sales,South America,94.84,6,4.4
+EMP045,Operations,North America,55.44,11,4.3
+EMP046,Operations,North America,95.42,24,2.8
+EMP047,Support,North America,72.74,14,4.2
+EMP048,Operations,Europe,84.07,23,4.2
+EMP049,Sales,Europe,86.92,17,3.8
+EMP050,Finance,South America,68.2,11,4.8
+EMP051,Operations,Asia Pacific,79.68,23,3.8
+EMP052,Support,Asia Pacific,55.5,21,3.8
+EMP053,Sales,North America,64.09,3,4.4
+EMP054,Marketing,South America,83.07,21,4.2
+EMP055,Operations,Asia Pacific,99.29,19,3.4
+EMP056,Sales,Europe,82.83,1,4.8
+EMP057,HR,Middle East,70.69,19,3.6
+EMP058,Operations,North America,83.91,2,3.1
+EMP059,Finance,North America,88.49,1,4.5
+EMP060,Operations,North America,83.69,17,3.5
+EMP061,Sales,South America,75.07,22,3.3
+EMP062,Operations,Asia Pacific,85.06,6,3.6
+EMP063,Marketing,Europe,52.86,24,4.4
+EMP064,Support,Europe,52.66,3,4.0
+EMP065,Operations,Asia Pacific,86.64,14,3.8
+EMP066,IT,North America,92.6,4,4.6
+EMP067,Support,Middle East,97.52,21,3.4
+EMP068,Operations,Asia Pacific,77.06,23,4.7
+EMP069,Sales,Africa,97.69,10,3.4
+EMP070,Operations,North America,97.77,0,3.9
+EMP071,Finance,Europe,90.2,10,4.2
+EMP072,Operations,Europe,97.65,3,3.2
+EMP073,Sales,Asia Pacific,62.31,14,4.0
+EMP074,Operations,North America,93.98,13,3.6
+EMP075,Operations,Asia Pacific,57.06,4,3.9
+EMP076,Marketing,Africa,73.21,1,3.6
+EMP077,Operations,Asia Pacific,95.24,10,4.0
+EMP078,Support,Europe,86.36,16,4.7
+EMP079,Operations,Europe,80.22,9,3.2
+EMP080,Sales,North America,84.87,10,4.4
+EMP081,Operations,North America,75.09,18,3.3
+EMP082,Operations,Asia Pacific,80.23,10,3.2
+EMP083,HR,Asia Pacific,86.14,1,3.5
+EMP084,Operations,Europe,78.67,17,3.6
+EMP085,Operations,North America,73.14,12,4.0
+EMP086,Support,North America,57.46,1,2.6
+EMP087,Finance,Asia Pacific,68.97,21,4.6
+EMP088,Operations,Asia Pacific,64.64,22,4.5
+EMP089,Operations,Middle East,88.24,1,3.4
+EMP090,Operations,Asia Pacific,99.35,5,3.5
+EMP091,Marketing,North America,77.68,14,3.4
+EMP092,Operations,Europe,72.01,9,4.1
+EMP093,Sales,North America,87.09,5,4.4
+EMP094,Support,Asia Pacific,60.36,5,3.8
+EMP095,Operations,North America,70.26,8,3.8
+EMP096,Operations,Europe,58.83,18,4.9
+EMP097,Operations,Europe,78.31,24,3.2
+EMP098,Sales,Middle East,72.46,14,3.9
+EMP099,Operations,South America,82.51,9,3.8
+EMP100,Operations,North America,75.99,22,4.3
